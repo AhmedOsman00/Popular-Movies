@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.7.1)
+  - Cosmos (15.0.0)
+  - Dropdowns (2.0.0)
+  - ExpandableCell (1.2.2)
+  - Realm (3.3.2):
+    - Realm/Headers (= 3.3.2)
+  - Realm/Headers (3.3.2)
+  - RealmSwift (3.3.2):
+    - Realm (= 3.3.2)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SwiftyJSON (4.0.0)
+  - youtube-ios-player-helper (0.1.6)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - Cosmos (~> 15.0)
+  - Dropdowns
+  - ExpandableCell
+  - RealmSwift
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON
+  - youtube-ios-player-helper (~> 0.1.6)
+  - YouTubePlayer
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Cosmos
+    - Dropdowns
+    - ExpandableCell
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SwiftyJSON
+    - youtube-ios-player-helper
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  Dropdowns: 9dd32d9ac9cc59e56ae093b588d35477abde32d2
+  ExpandableCell: f2d99f9ae03a8c393e268adddaeb7f6d2525a76e
+  Realm: d927fbf66df5532cfafc08afb5f7e53ded37b894
+  RealmSwift: 4e903a494e05d866581d69ad6f7e7b879d446baf
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: d370ff1ae2df0587cd6989bca5873b69f37b49f5
+
+COCOAPODS: 1.5.0
